@@ -1,1 +1,31 @@
-{"hefeixinim":{"url":"http://test.com","version":1},"shunlianim":{"url":"https://www.apple.com/vn/app-store/","version":25},"shunliaoim":{"url":"http://www.demo.com","version":1},"tips":"","yunxinim":{"url":"https://apps.apple.com/app/appid12345678900","version":1}}
+{
+	"shunlianim": {
+		"url": "http://www.demo.com",
+		"version": 1
+	},
+	"shunliaoim": {
+		"url": "http://www.demo.com",
+		"version": 1,
+		"domains": ["https://apis.myjmy.com"]
+	},
+	"tips": "",
+	"xunqiaoim": {
+		"url": "",
+		"version": 1
+	},
+	"xunqiaoim": {
+		"url": "http://www.demo.com",
+		"version": 1,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	},
+	"xunyuim": {
+		"url": "http://www.demo.com",
+		"version": 1,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	},"yunxiim": {
+		"url": "",
+		"version": 1,
+		"force_update": true,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	}
+}
