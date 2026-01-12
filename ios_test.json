@@ -1,11 +1,14 @@
 {
 	"shunlianim": {
 		"url": "http://www.demo.com",
-		"version": 1
+		"version": 1,
+		"foreupdate":true,
+		"domains": ["https://apis.myjmy.com"]
 	},
 	"shunliaoim": {
 		"url": "http://www.demo.com",
 		"version": 1,
+		"foreupdate":true,
 		"domains": ["https://apis.myjmy.com"]
 	},
 	"tips": "",
@@ -13,16 +16,19 @@
 	"xunqiaoim": {
 		"url": "http://www.demo.com",
 		"version": 1,
+		"foreupdate":true,
 		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
 	},
 	"xunyuim": {
 		"url": "http://www.demo.com",
 		"version": 1,
+		"foreupdate":true,
 		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
 	},
 	"yunxiim": {
 		"url": "http://www.demo.com",
 		"version": 1,
+		"foreupdate":true,
 		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
 	}
 }
