@@ -22,7 +22,7 @@
 		"url": "http://www.demo.com",
 		"version": 1,
 		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
-	},"yunxiim": {
+	},"xunqiaoim": {
 		"url": "",
 		"version": 1,
 		"force_update": true,
