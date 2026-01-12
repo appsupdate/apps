@@ -1,13 +1,27 @@
-{"shunlianim":
-  {"url":"https://www.dropbox.com/scl/fi/rhuvkblibje795zx9n6bv/shunliao-test-231225-v1.0.2-30.apk?rlkey=t2gypgn8cug0f1n1n1tym749e\u0026st=v7ey8v75\u0026dl=1","version":1,"force_update":true,
-      "api_list":["https://api-test.myim.dev","https://api-test1.myim.dev",,"https://api-test2.myim.dev"]},
-  "shunliaoim":{"url":"https://d28p61xhp0u7du.cloudfront.net/yx603.apk","version":100,"force_update":true,
-      "api_list":["https://api-test.myim.dev","https://api-test1.myim.dev",,"https://api-test2.myim.dev"]},
-    "xunqiaoim":{"url":"","version":1,"force_update":true,
-      "api_list":["https://api-test.myim.dev","https://api-test1.myim.dev",,"https://api-test2.myim.dev"]
-    },
-  "xunyuim":{"url":"","version":1,"force_update":true,
-      "api_list":["https://api-test.myim.dev","https://api-test1.myim.dev",,"https://api-test2.myim.dev"]
-    }
+{
+	"shunlianim": {
+		"url": "https://www.dropbox.com/scl/fi/rhuvkblibje795zx9n6bv/shunliao-test-231225-v1.0.2-30.apk?rlkey=t2gypgn8cug0f1n1n1tym749e\u0026st=v7ey8v75\u0026dl=1",
+		"version": 1,
+		"force_update": true,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	},
+	"shunliaoim": {
+		"url": "https://d28p61xhp0u7du.cloudfront.net/yx603.apk",
+		"version": 100,
+		"force_update": true,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	},
+	"xunqiaoim": {
+		"url": "",
+		"version": 1,
+		"force_update": true,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	},
+	"xunyuim": {
+		"url": "",
+		"version": 1,
+		"force_update": true,
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
+	}
 
 }
