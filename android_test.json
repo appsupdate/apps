@@ -15,6 +15,6 @@
 		"url": "https://gitlab.com/mindorigin-qc/yunxi/-/raw/main/beta_20251114_1517_1.0.7__1_.apk",
 		"version": 13,
 		"force_update": 1,
-		"api_list": ["api1.im.dev"]
+		"api_list": ["https://api-test.myim.dev", "https://api-test1.myim.dev", , "https://api-test2.myim.dev"]
 	}
 }
