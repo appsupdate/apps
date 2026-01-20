@@ -18,9 +18,9 @@
 		"version": 13,
 		"api_list": ["http://api1.com", "http://api2.com", "http://api3.com", "https://api-test.myim.dev"]
 	},
-  	"lcchat": {
-    	"url": "",
-    	"version": 1,
-    	"api_list": ["http://api1.com", "http://api2.com", "http://api3.com", "https://api-test.myim.dev"]
-  	}
+	"lcchat": {
+		"url": "",
+		"version": 1,
+		"api_list": ["http://api1.com", "http://api2.com", "http://api3.com", "https://api-test.myim.dev"]
+	}
 }
