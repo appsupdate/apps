@@ -2,6 +2,6 @@
   "shunliaoim":{"url":"http://www.demo.com","version":1},
   "xunqiaoim":{"url":"","version":1,
     "api_list":["http://crm.shunlianim.cn","https://wwww.shunlianim.com","https://crm.shunlianim.com",
-      "http://img.appdns.site","https://img.appdns.online","https://img.appdns.space"
+			 "https://img.appdns.online","https://img.appdns.space"
 ],"force_update":1},
   "tips":""}
