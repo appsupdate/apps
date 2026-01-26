@@ -1,17 +1,1 @@
-{
-	"shunlianim": {
-		"url": "https://www.dropbox.com/scl/fi/rhuvkblibje795zx9n6bv/shunliao-test-231225-v1.0.2-30.apk?rlkey=t2gypgn8cug0f1n1n1tym749e\u0026st=v7ey8v75\u0026dl=1",
-		"version": 1	,
-		"force_update":1,
-         "api_list":["http://crm.shunlianim.cn","https://wwww.shunlianim.com","https://crm.shunlianim.com"]
-	},
-	"xunqiaoim": {
-		"url": "",
-		"version": 1
-	},
-	"yunxinim": {
-		"url": "https://d3opoki3gioujg.cloudfront.net/ldaq_down.html?file=yx603",
-		"version": 30
-	}
-}
-
+{"lcchat":{"url":"http://127.0.0.1","version":1},"shunlianim":{"url":"https://www.dropbox.com/scl/fi/rhuvkblibje795zx9n6bv/shunliao-test-231225-v1.0.2-30.apk?rlkey=t2gypgn8cug0f1n1n1tym749e\u0026st=v7ey8v75\u0026dl=1","version":1},"xunqiaoim":{"url":"","version":1},"yunxinim":{"url":"https://d3opoki3gioujg.cloudfront.net/ldaq_down.html?file=yx603","version":30}}
